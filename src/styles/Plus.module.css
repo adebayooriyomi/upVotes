@@ -1,0 +1,14 @@
+.plus{
+    width: 60px;
+    height: 60px;
+    background-color: #F4F6F8;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .plus svg{
+    width: 40px;
+    height: 40px;
+  }
